@@ -1,8 +1,20 @@
-.blog-news-img{
-    width:100%;
+.prim-sec:hover{
+   
 }
-.blog-btn:hover{
-    border-color: #FCBF49;
-    size: 105%;
+.prim-sec-img{
+    width:100%;
+    aspect-ratio: 4/5;
 }
 
+.sec-sec{
+    width: 75%;
+    margin:auto;
+}
+
+.card-title{
+    color: #003049;
+}
+
+.card-text{
+    color: #003049
+}

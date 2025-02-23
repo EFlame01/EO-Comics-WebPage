@@ -28,8 +28,8 @@ body{
 }
 
 .comic-book-border{
-    border:5px solid black;
-    border-radius: 2.5px;
+    border:5px solid rgb(25, 25, 25);
+    border-radius: 3px;
 }
 
 .inline-block{
@@ -41,15 +41,15 @@ body{
 }
 
 .bg-orange{
-    background-color: #F77F00;
+    background-color: #F77F00ab;
 }
 
 .bg-red{
-    background-color: #D62828;
+    background-color: #D62828ab;
 }
 
 .bg-white{
-    background-color: #f1f1f1;
+    background-color: #f1f1f1ab;
 }
 
 .color-blue{
