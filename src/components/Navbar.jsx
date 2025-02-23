@@ -1,0 +1,36 @@
+
+function Navbar(props){
+    return (
+        <nav class="navbar navbar-expand-sm">
+            <div class="container-fluid">
+                <button class="navbar-toggler ms-2 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse comic-book-border bg-blue" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item">
+                            <a class="nav-link color-white ms-2" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link color-white ms-2" href="/">Comics</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link color-white ms-2" href="/">Games</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link color-white ms-2" href="/">Shows</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link color-white ms-2" href="/">Blogs</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link color-white ms-2" href="/">About</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    );
+}
+
+export default Navbar;

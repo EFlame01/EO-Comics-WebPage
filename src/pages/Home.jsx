@@ -1,14 +1,20 @@
 import Logo from "../components/Logo";
 import SignUpBar from "../components/SignUpBar";
-import Title from "../components/Title";
+import Navbar from "../components/Navbar";
+import Carousel from "../components/Carousel";
+import HomeContent from "../components/HomeContent";
 import Footer from "../components/Footer";
-import { Link } from "react-router-dom";
 
 function Home(){
     return (
         <div>
             <SignUpBar />
-            
+            <Logo />
+            <Navbar />
+            <Carousel />
+            <HomeContent />
+            <Footer />
         </div>
     );
 }
+export default Home;

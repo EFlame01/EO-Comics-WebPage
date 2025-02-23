@@ -40,6 +40,34 @@ body{
     background-color: #002f49ab;
 }
 
+.bg-orange{
+    background-color: #F77F00;
+}
+
+.bg-red{
+    background-color: #D62828;
+}
+
+.bg-white{
+    background-color: #f1f1f1;
+}
+
+.color-blue{
+    color: #003049;
+}
+
+.color-orange{
+    color: #F77F00;
+}
+
+.color-red{
+    color: #D62828;
+}
+
+.color-white{
+    color: #f1f1f1;
+}
+
 .form-width-half{
     width: 50%;
     margin: auto;
