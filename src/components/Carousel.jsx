@@ -1,4 +1,5 @@
-import placeholder_image from "../components/images/Welcome Image.jpeg";
+import placeholder_image from "../components/images/eo-comics-welcome-image.jpeg";
+import eo_comics_banner from "../components/images/eo-comics-banner-logo.png";
 import "./css/Carousel.css"
 
 function Carousel(props){
@@ -13,7 +14,7 @@ function Carousel(props){
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src={placeholder_image} class="carousel-img" alt="..."/>
+                            <img src={eo_comics_banner} class="carousel-img" alt="..."/>
                         </div>
                         <div class="carousel-item">
                             <img src={placeholder_image} class="carousel-img" alt="..."/>

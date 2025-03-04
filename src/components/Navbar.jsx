@@ -9,22 +9,22 @@ function Navbar(props){
                 <div class="collapse navbar-collapse comic-book-border bg-blue" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto">
                         <li class="nav-item">
-                            <a class="nav-link color-white ms-2" href="/">Home</a>
+                            <a class="nav-link color-white ms-2" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link color-white ms-2" href="/">Comics</a>
+                            <a class="nav-link color-white ms-2" href="/comics">Comics</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link color-white ms-2" href="/">Games</a>
+                            <a class="nav-link color-white ms-2" href="/games">Games</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link color-white ms-2" href="/">Shows</a>
+                            <a class="nav-link color-white ms-2" href="/shows">Shows</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link color-white ms-2" href="/">Blogs</a>
+                            <a class="nav-link color-white ms-2" href="/blogs">Blogs</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link color-white ms-2" href="/">About</a>
+                            <a class="nav-link color-white ms-2" href="/about">About</a>
                         </li>
                     </ul>
                 </div>

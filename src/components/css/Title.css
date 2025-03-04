@@ -3,3 +3,10 @@ h1{
     font-family: 'Bangers', cursive;
     font-size: xxx-large;
 }
+
+.subtitle{
+    color: #003049;
+    font-family: 'Bangers', cursive;
+    font-size: xx-large;
+    margin:auto;
+}

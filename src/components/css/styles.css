@@ -23,6 +23,17 @@ body{
     color:#003049;
 }
 
+.btn-comic-border{
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+.btn-comic-border:hover{
+    border:5px solid rgb(25, 25, 25);
+    border-radius: 3px;
+    transform: scale(1.00625);
+    box-shadow: 0 0 10px #f1f1f1, 0 0 10px #f1f1f1, 0 0 10px #f1f1f1;
+}
+
 .right-side{
     float:right;
 }

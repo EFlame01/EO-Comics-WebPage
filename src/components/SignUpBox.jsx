@@ -1,6 +1,6 @@
 import InputField from "../components/InputField";
 import { Link } from "react-router-dom";
-import welcome_image from "../components/images/Welcome Image.jpeg";
+import welcome_image from "../components/images/eo-comics-welcome-image.jpeg";
 
 function SignUpBox(){
     return (

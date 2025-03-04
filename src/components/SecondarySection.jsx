@@ -1,4 +1,4 @@
-import placeholder_image from "../components/images/Welcome Image.jpeg";
+import placeholder_image from "../components/images/eo-comics-welcome-image.jpeg";
 import Title from "./Title";
 
 function SecondarySection(props){
