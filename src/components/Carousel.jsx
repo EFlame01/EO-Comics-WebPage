@@ -4,7 +4,7 @@ import "./css/Carousel.css"
 
 function Carousel(props){
     return(
-        <div class="py-2">
+        <div class="p-2">
             <div class="container-lg comic-book-border px-0">
                 <div id="carousel" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">

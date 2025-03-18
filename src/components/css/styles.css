@@ -88,6 +88,13 @@ body{
     border-radius: 50%;
 }
 
+.eo-comics-bg{
+    background-image: url("css_images/eo-comics-background-logo.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 @media (min-width: 576px) { 
     .container-fluid{
         width: 500px;
