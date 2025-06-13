@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import Launch from "../pages/Launch";
 import Home from "../pages/Home";
 import Comics from "../pages/Comics";
+import Shows from "../pages/Shows";
 import Login from "../pages/Login";
 import SignUp from "../pages/SignUp";
 
@@ -17,6 +18,9 @@ function App(){
                 </Route>
                 <Route exact path="/comics">
                     <Comics />
+                </Route>
+                <Route exact path="/shows">
+                    <Shows />
                 </Route>
                 <Route path="/login">
                     <Login />
