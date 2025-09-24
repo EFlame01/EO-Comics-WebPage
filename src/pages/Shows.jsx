@@ -21,7 +21,7 @@ function Shows(){
                 <h2>Guardians of RPG</h2>
                 {/* Banner with Guardians of RPG */}
                 <h2>Operation SOS</h2>
-                {/* Banner with OSS */}
+                {/* Banner with SOS */}
             </div>
             <Footer />
         </div>
