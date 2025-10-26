@@ -1,4 +1,4 @@
-import SubTitle from "./SubTitle";
+import SubTitle from "../components/SubTitle";
 
 function ComicButton(props){
     return(
